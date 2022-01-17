@@ -1,6 +1,7 @@
 
 /**
  * @brief BLE simple app to scan for a peripheral with the device name "M6"
+ * print to UART module when connected or disconnected event happens.
  *
  */
 

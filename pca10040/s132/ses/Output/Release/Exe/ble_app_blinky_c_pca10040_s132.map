@@ -10105,7 +10105,7 @@ LOAD linker stubs
  .debug_line    0x000000000001fac3      0x9b6 Output/Release/Obj/ble_app_blinky_c_pca10040_s132/nrf_sdh_ble.o
  .debug_line    0x0000000000020479      0x640 Output/Release/Obj/ble_app_blinky_c_pca10040_s132/nrf_sdh_soc.o
 
-.debug_info     0x0000000000000000    0x3c3e0
+.debug_info     0x0000000000000000    0x3c3e1
  .debug_info    0x0000000000000000       0x22 Output/Release/Obj/ble_app_blinky_c_pca10040_s132/thumb_crt0.o
  .debug_info    0x0000000000000022      0x77b Output/Release/Obj/ble_app_blinky_c_pca10040_s132/nrf_log_backend_serial.o
  .debug_info    0x000000000000079d     0x1139 Output/Release/Obj/ble_app_blinky_c_pca10040_s132/nrf_log_backend_uart.o
@@ -10144,17 +10144,17 @@ LOAD linker stubs
  .debug_info    0x000000000001c350     0x335c Output/Release/Obj/ble_app_blinky_c_pca10040_s132/nrfx_uarte.o
  .debug_info    0x000000000001f6ac     0x1190 Output/Release/Obj/ble_app_blinky_c_pca10040_s132/bsp.o
  .debug_info    0x000000000002083c     0x1e4e Output/Release/Obj/ble_app_blinky_c_pca10040_s132/bsp_btn_ble.o
- .debug_info    0x000000000002268a     0x3427 Output/Release/Obj/ble_app_blinky_c_pca10040_s132/main.o
- .debug_info    0x0000000000025ab1     0x1b0e Output/Release/Obj/ble_app_blinky_c_pca10040_s132/ble_advdata.o
- .debug_info    0x00000000000275bf     0x29cb Output/Release/Obj/ble_app_blinky_c_pca10040_s132/ble_conn_state.o
- .debug_info    0x0000000000029f8a     0x33c2 Output/Release/Obj/ble_app_blinky_c_pca10040_s132/ble_db_discovery.o
- .debug_info    0x000000000002d34c     0x2935 Output/Release/Obj/ble_app_blinky_c_pca10040_s132/nrf_ble_gatt.o
- .debug_info    0x000000000002fc81     0x2d7c Output/Release/Obj/ble_app_blinky_c_pca10040_s132/nrf_ble_gq.o
- .debug_info    0x00000000000329fd     0x2e3a Output/Release/Obj/ble_app_blinky_c_pca10040_s132/nrf_ble_scan.o
- .debug_info    0x0000000000035837     0x28ee Output/Release/Obj/ble_app_blinky_c_pca10040_s132/ble_lbs_c.o
- .debug_info    0x0000000000038125     0x124f Output/Release/Obj/ble_app_blinky_c_pca10040_s132/nrf_sdh.o
- .debug_info    0x0000000000039374     0x2ac3 Output/Release/Obj/ble_app_blinky_c_pca10040_s132/nrf_sdh_ble.o
- .debug_info    0x000000000003be37      0x5a9 Output/Release/Obj/ble_app_blinky_c_pca10040_s132/nrf_sdh_soc.o
+ .debug_info    0x000000000002268a     0x3428 Output/Release/Obj/ble_app_blinky_c_pca10040_s132/main.o
+ .debug_info    0x0000000000025ab2     0x1b0e Output/Release/Obj/ble_app_blinky_c_pca10040_s132/ble_advdata.o
+ .debug_info    0x00000000000275c0     0x29cb Output/Release/Obj/ble_app_blinky_c_pca10040_s132/ble_conn_state.o
+ .debug_info    0x0000000000029f8b     0x33c2 Output/Release/Obj/ble_app_blinky_c_pca10040_s132/ble_db_discovery.o
+ .debug_info    0x000000000002d34d     0x2935 Output/Release/Obj/ble_app_blinky_c_pca10040_s132/nrf_ble_gatt.o
+ .debug_info    0x000000000002fc82     0x2d7c Output/Release/Obj/ble_app_blinky_c_pca10040_s132/nrf_ble_gq.o
+ .debug_info    0x00000000000329fe     0x2e3a Output/Release/Obj/ble_app_blinky_c_pca10040_s132/nrf_ble_scan.o
+ .debug_info    0x0000000000035838     0x28ee Output/Release/Obj/ble_app_blinky_c_pca10040_s132/ble_lbs_c.o
+ .debug_info    0x0000000000038126     0x124f Output/Release/Obj/ble_app_blinky_c_pca10040_s132/nrf_sdh.o
+ .debug_info    0x0000000000039375     0x2ac3 Output/Release/Obj/ble_app_blinky_c_pca10040_s132/nrf_sdh_ble.o
+ .debug_info    0x000000000003be38      0x5a9 Output/Release/Obj/ble_app_blinky_c_pca10040_s132/nrf_sdh_soc.o
 
 .debug_abbrev   0x0000000000000000     0x9a4a
  .debug_abbrev  0x0000000000000000       0x12 Output/Release/Obj/ble_app_blinky_c_pca10040_s132/thumb_crt0.o
